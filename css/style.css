@@ -97,6 +97,11 @@ body {
     justify-content: center;
 }
 
+.header a {
+    text-decoration: none;
+    color: white;
+}
+
 .header__wrapper {
     position: absolute;
     font-size: 18px;
@@ -368,6 +373,12 @@ body {
     font-size: 1.3em;
     margin-bottom: 8em;
 }
+
+.pricing a {
+    text-decoration: none;
+    color: white;
+}
+
 
 .pricing__list {
     width: 90vw;
